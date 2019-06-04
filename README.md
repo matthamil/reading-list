@@ -4,10 +4,15 @@ An organized collection of articles that I have found to be interesting and/or i
 ## Table of Contents
 
 - [JavaScript](#javascript)
+  - [Engines](#engines)
   - [Promises](#promises)
 - [Accessibility](#accessibility)
 
 ## JavaScript
+
+#### Engines
+
+* [Understanding V8's Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 
 #### Promises
 
