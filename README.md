@@ -7,6 +7,7 @@ An organized collection of articles that I have found to be interesting and/or i
   - [Engines](#engines)
   - [Promises](#promises)
 - [Accessibility](#accessibility)
+- [React Native](#react-native)
 
 ## JavaScript
 
@@ -21,3 +22,7 @@ An organized collection of articles that I have found to be interesting and/or i
 ## Accessibility
 
 * [How the Web Became Unreadable](https://www.wired.com/2016/10/how-the-web-became-unreadable/)
+
+## React Native
+
+* [Understanding the React Native bridge concept](https://hackernoon.com/understanding-react-native-bridge-concept-e9526066ddb8)
